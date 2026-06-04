@@ -29,6 +29,7 @@ chmod +x devops_menu.sh
 ### 1️⃣ The Main Menu
 The script launches a clean menu with 5 options.
 
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/290b66106de889052302dceb877ecf328491b5ff/challenge1/Snipaste_2026-06-04_16-30-28.png)
 
 
 ### 2️⃣ Check CPU
