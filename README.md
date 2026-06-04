@@ -33,3 +33,5 @@ printing the working directory
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/ba1d2044f920ce6b52a146a30354752b6c106787/Snipaste_2026-06-04_10-04-36.png)
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/0f83885dfa56730d51fd592c936c0bf785f92110/Snipaste_2026-06-04_10-04-55.png)
+
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/51f57f9d997c413a5cb034aa5775114ca0a06f55/Snipaste_2026-06-04_10-05-17.png)
