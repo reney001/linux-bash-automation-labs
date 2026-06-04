@@ -56,9 +56,8 @@ Restarts the nginx service and shows its current status.
 ### 5️⃣ Backup Logs
 Creates a timestamped backup folder in `/tmp` and copies system logs into it.
 
-![Backup Logs](screenshots/backup.png)
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/4bb55ef223662cd8447c28df2fc01a7200993604/challenge1/Snipaste_2026-06-04_15-47-48.png)
 
----
 
 ### 6️⃣ Exit
 Cleanly exits the tool with a goodbye message.
