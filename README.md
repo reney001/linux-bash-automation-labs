@@ -77,3 +77,5 @@ Adding cache cleanup functionality to ensure fresh application execution.
 ❤️ 7. Verifying Service Health
 
 Implementing health checks to confirm the application is operational after deployment.
+
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/8612b980118f67c8da61b82af3eda415ffd97540/Snipaste_2026-06-04_14-08-14.png)
