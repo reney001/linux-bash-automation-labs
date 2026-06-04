@@ -94,3 +94,8 @@ Making the deployment script executable using Linux permissions.
 Adding project files to Git's staging area in preparation for committing.
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/41ff636f48143ab7797978c188bbf6f4d4a0c1ef/Snipaste_2026-06-04_10-09-18.png)
+
+##committing 
+
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/677c04ed8ed1b1439f2f32721f69a01ca19a22aa/Snipaste_2026-06-04_10-09-36.png)
+
