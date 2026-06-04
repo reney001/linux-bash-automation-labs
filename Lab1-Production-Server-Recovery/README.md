@@ -99,3 +99,5 @@ Uploading the project to GitHub for backup, collaboration, and version managemen
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/081ff318f30d98141e6c3a68c1daf4ca09f5d02d/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_13-42-34.png)
 
 🌐 7. GitHub Repository View
+
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/9b619a8587efcc7d5bb91cc8a323aa1c3d892bac/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_15-13-57.png)
