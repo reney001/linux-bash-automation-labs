@@ -89,13 +89,16 @@ Making the deployment script executable using Linux permissions.
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/3a14bc874cb50c1eb10a134c07dcb3307211efd5/Snipaste_2026-06-04_14-14-18.png)
 
 
-➕ 13. Staging Project Files
+➕ 9. Staging Project Files
 
 Adding project files to Git's staging area in preparation for committing.
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/41ff636f48143ab7797978c188bbf6f4d4a0c1ef/Snipaste_2026-06-04_10-09-18.png)
 
-##committing 
+
+💾 10. Creating a Commit
+
+Saving the project's current state to the Git repository.
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/677c04ed8ed1b1439f2f32721f69a01ca19a22aa/Snipaste_2026-06-04_10-09-36.png)
 
