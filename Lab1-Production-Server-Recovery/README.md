@@ -33,6 +33,6 @@ Creating the project directory and preparing the working environment.
 
 Developing the automation script responsible for monitoring and recovering the Nginx service.
 
-
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/e9d62f59fee1f97db216391a2a1dd6df5692c98f/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_13-16-19.png)
 
 
