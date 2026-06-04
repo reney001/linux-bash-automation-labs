@@ -72,3 +72,8 @@ Configuring the script to restart the application service after deployment.
 Adding cache cleanup functionality to ensure fresh application execution.
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/9ee2c364bb31bb4a8af4dcc0a17edbf974d495e3/Snipaste_2026-06-04_14-34-21.png)
+
+
+❤️ 7. Verifying Service Health
+
+Implementing health checks to confirm the application is operational after deployment.
