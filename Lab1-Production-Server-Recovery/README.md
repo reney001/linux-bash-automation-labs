@@ -27,4 +27,6 @@ The automation solution should:
 
 Creating the project directory and preparing the working environment.
 
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/cc1053e509f69e2f7f525a3b8e7c60e713f682e5/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_13-16-10.png)
+
 
