@@ -14,11 +14,15 @@ Nginx crashes unexpectedly at midnight.
 The automation solution should:
 
 ✅ Detect service failure
+
 🔄 Restart Nginx automatically
+
 📝 Log the incident
+
 📧 Send a notification
 
 📸 Project Walkthrough
+
 🗂️ 1. Project Setup
 
 Creating the project directory and preparing the working environment.
