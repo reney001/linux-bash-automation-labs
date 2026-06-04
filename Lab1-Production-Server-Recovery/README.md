@@ -56,8 +56,10 @@ Verifying that the Nginx service is running normally after recovery.
 
 
 5.GitHub Repository
+
 🐙 1. Initializing the Git Repository
 
 Creating a new Git repository to track project changes and manage version control.
 
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/74ec6e5f1d77f9e74c3ff85a4bc79a0a7ff93f4d/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_13-31-04.png)
 
