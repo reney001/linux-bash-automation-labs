@@ -48,7 +48,8 @@ Analyzing the lab objectives and understanding the deployment workflow requireme
 
 Writing the Bash script that automates deployment tasks.
 
-![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/3a14bc874cb50c1eb10a134c07dcb3307211efd5/Snipaste_2026-06-04_14-14-18.png)
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/0682ee75324efd1e3352702eb825feb6995aea1a/Snipaste_2026-06-04_14-43-32.png)
+
 
 
 📥 4. Pulling Latest Code from GitHub
@@ -79,3 +80,10 @@ Adding cache cleanup functionality to ensure fresh application execution.
 Implementing health checks to confirm the application is operational after deployment.
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/8612b980118f67c8da61b82af3eda415ffd97540/Snipaste_2026-06-04_14-08-14.png)
+
+🔐 8. Granting Script Permissions
+
+Making the deployment script executable using Linux permissions.
+
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/3a14bc874cb50c1eb10a134c07dcb3307211efd5/Snipaste_2026-06-04_14-14-18.png)
+
