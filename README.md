@@ -18,8 +18,8 @@ linux-automation-labs/
 │   └── deploy.sh
 └── screenshots/
 
-## How to Run
 
-chmod +x scripts/deploy.sh
+📸 Project Walkthrough
+📁 1. Creating the Project Folder
 
-./scripts/deploy.sh
+Creating the project directory that will contain all files and resources required for the DevOps deploymen
