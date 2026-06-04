@@ -42,9 +42,10 @@ Displays the top running processes sorted by CPU usage and the system load avera
 ### 3️⃣ Check RAM
 Shows memory usage in human readable format including swap details.
 
-![Check RAM](screenshots/ram.png)
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/c6376240e75e402f015bb4bf19561b7a68d0cb74/challenge1/Snipaste_2026-06-04_15-58-39.png)
 
----
+
+
 
 ### 4️⃣ Restart Nginx
 Restarts the nginx service and shows its current status.
