@@ -27,3 +27,7 @@ Creating the project directory that will contain all files and resources require
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/6887c5dae178f58d2cf09bebe7c410a3f04cd5ca/Snipaste_2026-06-04_10-04-17.png)
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/81a1bb5415aa7fa490ad92b2be36ebaf12e5b69a/Snipaste_2026-06-04_10-04-27.png)
+
+printing the working directory 
+
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/ba1d2044f920ce6b52a146a30354752b6c106787/Snipaste_2026-06-04_10-04-36.png)
