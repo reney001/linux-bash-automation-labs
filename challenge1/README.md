@@ -50,7 +50,7 @@ Shows memory usage in human readable format including swap details.
 ### 4️⃣ Restart Nginx
 Restarts the nginx service and shows its current status.
 
-![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/40cc2dc6d45bba9208ff889f13d18a5f539e2c56/challenge1/Snipaste_2026-06-04_15-38-16.png)
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/12168dafe0ca2b13d260d20bed23b2f83b0704eb/challenge1/Snipaste_2026-06-04_15-56-59.png)
 
 
 ### 5️⃣ Backup Logs
