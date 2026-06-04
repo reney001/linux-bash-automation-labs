@@ -56,5 +56,8 @@ Verifying that the Nginx service is running normally after recovery.
 
 
 5.GitHub Repository
+🐙 1. Initializing the Git Repository
 
-Final project successfully committed and pushed to GitHub.
+Creating a new Git repository to track project changes and manage version control.
+
+
