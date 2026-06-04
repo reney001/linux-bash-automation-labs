@@ -23,3 +23,5 @@ linux-automation-labs/
 📁 1. Creating the Project Folder
 
 Creating the project directory that will contain all files and resources required for the DevOps deploymen
+
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/6887c5dae178f58d2cf09bebe7c410a3f04cd5ca/Snipaste_2026-06-04_10-04-17.png)
