@@ -85,8 +85,13 @@ Creating the initial commit to save the first version of the project.
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/68588662c164a24aac4a35b51cb0a3322a46b0fa/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_13-34-53.png)
 
 
-🔗 6. Connecting to GitHub
+🔗 5. Connecting to GitHub
 
 Linking the local repository to the remote GitHub repository.
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/2863bd3ae2551538bf46334a84d94f8cb67dffeb/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_13-38-10.png)
+
+
+🚀 6. Pushing to GitHub
+
+Uploading the project to GitHub for backup, collaboration, and version management.
