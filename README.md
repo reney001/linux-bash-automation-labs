@@ -47,3 +47,5 @@ Analyzing the lab objectives and understanding the deployment workflow requireme
 💻 6. Developing the Deployment Script
 
 Writing the Bash script that automates deployment tasks.
+
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/3a14bc874cb50c1eb10a134c07dcb3307211efd5/Snipaste_2026-06-04_14-14-18.png)
