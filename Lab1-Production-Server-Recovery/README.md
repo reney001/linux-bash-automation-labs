@@ -63,3 +63,7 @@ Creating a new Git repository to track project changes and manage version contro
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/74ec6e5f1d77f9e74c3ff85a4bc79a0a7ff93f4d/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_13-31-04.png)
 
+
+➕ 2. Staging Project Files
+
+Adding project files to the Git staging area before committing changes.
