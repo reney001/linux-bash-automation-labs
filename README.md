@@ -109,3 +109,7 @@ Uploading the completed project to GitHub for version control and collaboration.
 
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/409441aec2479a5d5a2a75a112ab5c1fc304ca23/Snipaste_2026-06-04_10-10-41.png)
+
+🌐 12. GitHub Repository Verification
+
+Verifying that the project has been successfully published on GitHub.
