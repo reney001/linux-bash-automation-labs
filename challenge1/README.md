@@ -35,9 +35,9 @@ The script launches a clean menu with 5 options.
 ### 2️⃣ Check CPU
 Displays the top running processes sorted by CPU usage and the system load average.
 
-![Check CPU](screenshots/cpu.png)
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/be4de7f8d4619bb2c7c0122b6f1c7eafb68339c1/challenge1/Snipaste_2026-06-04_15-56-26.png)
 
----
+
 
 ### 3️⃣ Check RAM
 Shows memory usage in human readable format including swap details.
