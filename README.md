@@ -50,6 +50,7 @@ Writing the Bash script that automates deployment tasks.
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/0682ee75324efd1e3352702eb825feb6995aea1a/Snipaste_2026-06-04_14-43-32.png)
 
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/31741a1fb53f8724493bcfe97fb0e6ca565a508e/Snipaste_2026-06-04_14-44-30.png)
 
 
 📥 4. Pulling Latest Code from GitHub
