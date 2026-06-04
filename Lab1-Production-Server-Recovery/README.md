@@ -44,4 +44,4 @@ Developing the automation script responsible for monitoring and recovering the N
 
 Making the recovery script executable.
 
-
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/648854f6d2debc761788c46c02265fa794ad4943/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_13-18-14.png)
