@@ -1,17 +1,26 @@
 # Lab 1 — Production Server Recovery
 
+
+🚀 Production Server Recovery Automation
 ## Description
-This Bash script automates nginx server recovery.
+📖 Overview
 
-## Features
-- Detects nginx failure
-- Restarts nginx
-- Logs issues
-- Sends notification
+This project demonstrates an automated recovery solution for a production server environment. The automation continuously monitors the Nginx service, detects failures, restarts the service, logs incidents, and sends notifications to administrators.
 
-## How to Run
+🎯 Lab Scenario
 
-Make executable:
+Nginx crashes unexpectedly at midnight.
 
-```bash
-chmod +x nginx_recovery.sh
+The automation solution should:
+
+✅ Detect service failure
+🔄 Restart Nginx automatically
+📝 Log the incident
+📧 Send a notification
+
+📸 Project Walkthrough
+🗂️ 1. Project Setup
+
+Creating the project directory and preparing the working environment.
+
+
