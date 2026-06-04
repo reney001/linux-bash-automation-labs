@@ -50,9 +50,8 @@ Shows memory usage in human readable format including swap details.
 ### 4️⃣ Restart Nginx
 Restarts the nginx service and shows its current status.
 
-![Restart Nginx](screenshots/nginx.png)
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/40cc2dc6d45bba9208ff889f13d18a5f539e2c56/challenge1/Snipaste_2026-06-04_15-38-16.png)
 
----
 
 ### 5️⃣ Backup Logs
 Creates a timestamped backup folder in `/tmp` and copies system logs into it.
