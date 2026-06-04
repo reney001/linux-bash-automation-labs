@@ -63,4 +63,6 @@ Implementing the Git pull functionality to retrieve the latest source code updat
 
 Configuring the script to restart the application service after deployment.
 
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/48626bf3cec7a1437710f9d278b47c9f56dbebca/Snipaste_2026-06-04_14-26-26.png)
+
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/215765652885e9031c8b31c94cceb2692b935ca6/Snipaste_2026-06-04_14-27-00.png)
