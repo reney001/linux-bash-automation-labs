@@ -29,7 +29,7 @@ Creating the project directory and preparing the working environment.
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/cc1053e509f69e2f7f525a3b8e7c60e713f682e5/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_13-16-10.png)
 
-💻 4. Recovery Script Development
+💻 2. Recovery Script Development
 
 Developing the automation script responsible for monitoring and recovering the Nginx service.
 
@@ -40,16 +40,21 @@ Developing the automation script responsible for monitoring and recovering the N
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/c39d7158a5a63ababe5add118d3153ea67e3dd53/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_13-17-10.png)
 
 
-🔐 5. Granting Script Permissions
+🔐 3. Granting Script Permissions
 
 Making the recovery script executable.
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/648854f6d2debc761788c46c02265fa794ad4943/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_13-18-14.png)
 
 
-✅ 11. Successful Recovery Verification
+✅ 4. Successful Recovery Verification
 
 Verifying that the Nginx service is running normally after recovery.
 
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/0ae5e9df6534b109308fadc693941c6e94db6abd/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_13-26-50.png)
+
+
+5.GitHub Repository
+
+Final project successfully committed and pushed to GitHub.
