@@ -102,3 +102,10 @@ Saving the project's current state to the Git repository.
 
 ![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/677c04ed8ed1b1439f2f32721f69a01ca19a22aa/Snipaste_2026-06-04_10-09-36.png)
 
+
+🚀 11. Pushing the Project to GitHub
+
+Uploading the completed project to GitHub for version control and collaboration.
+
+
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/409441aec2479a5d5a2a75a112ab5c1fc304ca23/Snipaste_2026-06-04_10-10-41.png)
