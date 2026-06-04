@@ -61,6 +61,7 @@ Verifying that the Nginx service is running normally after recovery.
 
 Setting the global Git username and email address used to track project contributions and commits.
 
+![image alt](https://github.com/reney001/linux-bash-automation-labs/blob/b0678217e0e7b1492c099a390d56b7bb90683b40/Lab1-Production-Server-Recovery/Snipaste_2026-06-01_13-34-45.png)
 
 
 🐙 2. Initializing the Git Repository
